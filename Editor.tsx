@@ -179,5 +179,4 @@ const Editor: React.FC<EditorProps> = ({ data, onChange }) => {
   );
 };
 
-export default function Editor() {
-  return <div>Editor</div>;
+import { Editor } from "./components/Editor";
