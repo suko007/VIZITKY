@@ -1,0 +1,7 @@
+{
+  "name": "Vizitka Majster - PVA Edition",
+  "description": "Profesionálny nástroj na tvorbu a tlač moderných vizitiek s integrovaným logom PVA.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
